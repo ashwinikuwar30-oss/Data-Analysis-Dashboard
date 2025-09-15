@@ -1,4 +1,5 @@
 Ashwini's Ecommerce Sales-Dashboard
+
 1)Track Key Business Metrics – Monitor total sales, profit, quantity sold, and average order value (AOV) in real-time.
 
 2)Analyze Regional Performance – Provide state-wise and quarter-wise analysis to identify high-performing and low-performing regions.
