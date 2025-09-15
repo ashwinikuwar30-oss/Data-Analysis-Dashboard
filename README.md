@@ -8,7 +8,7 @@
 6)Payment Mode Preferences – Study transaction distribution across COD, Debit Card, UPI, EMI, and Credit Card to improve payment strategy and customer convenience.
 7)Sub-Category Profitability – Compare profit contribution across sub-categories (Printers, Bookcases, Sarees, Accessories, Shirts) to identify.
 
-## Dashboard link: X https://github.com/ashwinikuwar30-oss/Data-Analysis-Dashboard/blob/main/Dashboard.png
+## Dashboard link: https://github.com/ashwinikuwar30-oss/Data-Analysis-Dashboard/blob/main/Dashboard.png
 
 ## KPI Question
 1)What is the total sales revenue generated, and how does it vary across different states?
