@@ -17,3 +17,6 @@
 6)Which sub-categories are generating the highest profits, and which are underperforming?
 7)How does the average order value (AOV) reflect customer purchasing behavior?
 8)What are the key regions and categories where sales strategies should be improved to increase profitability?
+
+## Process
+The process of creating this Ecommerce Sales Dashboard began with data collection and cleaning, ensuring the dataset was accurate and ready for analysis. Next, the data was imported into Power BI, where relationships between tables were built and DAX measures were created for key metrics such as Total Sales, Profit, Quantity, and Average Order Value. After that, various visualizations like bar charts, donut charts, and line graphs were designed to analyze performance across categories, customers, states, and payment modes. Finally, filters and slicers were added to enable interactive exploration, making the dashboard a powerful tool for deriving insights and supporting business decisions.
