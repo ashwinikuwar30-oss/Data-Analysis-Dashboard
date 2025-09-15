@@ -22,3 +22,10 @@
 
 ## Process
 The process of creating this Ecommerce Sales Dashboard began with data collection and cleaning, ensuring the dataset was accurate and ready for analysis. Next, the data was imported into Power BI, where relationships between tables were built and DAX measures were created for key metrics such as Total Sales, Profit, Quantity, and Average Order Value. After that, various visualizations like bar charts, donut charts, and line graphs were designed to analyze performance across categories, customers, states, and payment modes. Finally, filters and slicers were added to enable interactive exploration, making the dashboard a powerful tool for deriving insights and supporting business decisions.
+
+## Project Insights: 
+The Ecommerce Sales Dashboard shows that Clothing is the top-selling category, while Printers and Bookcases drive the most profit. November recorded peak profits, whereas June and October saw losses. Cash on Delivery is the most preferred payment mode, and a few key customers contribute significantly to overall sales, highlighting the need for customer retention and optimized sales strategies.
+
+## Conclusion:
+The Ecommerce Sales Dashboard successfully provides a comprehensive view of sales, profit, customer behavior, and product performance. Insights reveal that Clothing is the leading category, Printers and Bookcases are the most profitable sub-categories, and November is the peak sales month, while losses in June and October highlight areas for improvement. The dominance of Cash on Delivery shows customer payment preferences, and the reliance on a few key customers emphasizes the need for strong retention strategies. Overall, this project demonstrates the power of Power BI in transforming raw data into actionable insights that can guide better business decisions.
+
